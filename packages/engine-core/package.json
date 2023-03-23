@@ -39,7 +39,7 @@
     "@prisma/engines": "3.12.0-31.ae010d3ee58f28c22599b1e5fbd1697a82240550",
     "@prisma/generator-helper": "workspace:*",
     "@prisma/get-platform": "3.12.0-31.ae010d3ee58f28c22599b1e5fbd1697a82240550",
-    "chalk": "4.1.2",
+    "chalk": "5.2.0",
     "execa": "5.1.1",
     "get-stream": "6.0.1",
     "indent-string": "4.0.0",
